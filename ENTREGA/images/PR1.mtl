@@ -1,0 +1,12 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl 07___Default
+Ns 15.000002
+Ka 1.000000 1.000000 1.000000
+Ks 0.054000 0.054000 0.054000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Bird_v1_L2.123c62214d41-2432-4b73-8f56-ed312b43c2aa/Bird_v1_L2.123c62214d41-2432-4b73-8f56-ed312b43c2aa/12212_Bird_diffuse.jpg
